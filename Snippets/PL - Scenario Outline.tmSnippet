@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>content</key>
+    <string>Szablon scenariusza: ${1:tytuł}
+  Zakładając że ${2:kontekst}
+  Jeżeli ${3:zdarzenie}
+  Wtedy ${4:rezultat}
+</string>
+    <key>name</key>
+    <string>PL - Scenario Outline (Szablon scenariusza)</string>
+    <key>scope</key>
+    <string>text.gherkin.feature</string>
+    <key>tabTrigger</key>
+    <string>sco</string>
+</dict>
+</plist>

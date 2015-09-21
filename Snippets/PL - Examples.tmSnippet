@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>content</key>
+    <string>Przykłady:
+  | ${1:input_1} | ${3:input_2} | ${5:result} |
+  | ${2:1      } | ${4:2      } | ${6:3     } |$0</string>
+    <key>name</key>
+    <string>PL - Examples (Przykłady)</string>
+    <key>scope</key>
+    <string>text.gherkin.feature</string>
+    <key>tabTrigger</key>
+    <string>exa</string>
+</dict>
+</plist>
